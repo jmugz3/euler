@@ -13,4 +13,4 @@ Want to file a bug, contribute some code, or improve documentation? All pull req
 
 
 [euler]: https://projecteuler.net/archives
-[contributing]:http://github.com/angular/angular/blob/master/CONTRIBUTING.md 
+[contributing]:http://github.com/jmugz3/euler/blob/master/CONTRIBUTING.md 
