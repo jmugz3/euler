@@ -9,4 +9,4 @@ C++ and C# (.NET)
 Java
 
 ## Contributing
-For contributions related questions, please refer to the [contributing](./contributing.md) documentation
+For contributions related questions, please refer to the [contributing]:http://github.com/angular/angular/blob/master/CONTRIBUTING.md  documentation
