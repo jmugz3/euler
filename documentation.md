@@ -12,13 +12,13 @@
   Solutions : [python][solution5py] [javascript][solution5js]
 6. Find the largest palindrome made from the product of two 3-digit numbers.
   Solutions : [python][solution6py] [javascript][solution6js]
-7. Find the largest palindrome made from the product of two 3-digit numbers.
+7. What is the 10,001st prime number?
   Solutions : [python][solution7py] [javascript][solution7js]
-8. Find the largest palindrome made from the product of two 3-digit numbers.
+8. Find the thirteen adjacent digits in the 1000-digit number that have the greatest product
   Solutions : [python][solution8py] [javascript][solution8js]
-9. Find the largest palindrome made from the product of two 3-digit numbers.
+9. Find the product abc of Pythagorean triplet that adds to 1000.
   Solutions : [python][solution9py] [javascript][solution9js]
-10. Find the largest palindrome made from the product of two 3-digit numbers.
+10. Find the sum of all the primes below two million.
   Solutions : [python][solution10py] [javascript][solution10js]
 
 [solution1py]: http://github.com/jmugz3/euler/blob/master/1-10/solution1.py
